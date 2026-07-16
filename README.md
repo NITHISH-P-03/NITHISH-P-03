@@ -123,7 +123,7 @@ Issue management system for educational institutions featuring role-based authen
 
 ---
 
-## 🎤 AI Pronunciation Checker
+## 🎤 Trip Tales
 
 A Hotel Booking Platform Similar to AirBnb.
 
@@ -134,48 +134,6 @@ A Hotel Booking Platform Similar to AirBnb.
 🔗 Live Demo: https://triptales-nh5t.onrender.com
 
 📂 Repository: https://github.com/NITHISH-P-03/TripTales
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
 
 ---
 
