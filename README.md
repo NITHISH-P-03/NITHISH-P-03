@@ -91,6 +91,7 @@ AI-powered customer support platform that automates email processing, ticket cre
 
 `NestJS` `Next.js` `TypeScript` `PostgreSQL` `AWS Bedrock` `Gmail API`
 
+🔗 Live Demo : https://drive.google.com/file/d/1n2xqoYjcUzdz0Y-kSZbaL6HYnNGQrToN/view?usp=drive_link
 
 
 ---
